@@ -1,0 +1,36 @@
+
+.hero {
+  width:900px;
+  height:190px;
+  background-color: purple;
+  color:white;
+  display:flex;
+  justify-content:center;
+  font-size:3rem;
+  align-items:center;
+}
+h1 {
+  text-align:center;
+  color:purple;
+}
+.squarerow {
+  display:flex;
+  justify-content:space-around;
+}
+.boxes {
+  width:210px;
+  height:210px;
+  background-color: lime;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  color:purple;
+  font-size: 2rem;
+  box-shadow: 1px 3px 9px 4px #ccc;
+}
+.hovercolor {
+  background-color: turquoise;
+}
+.restart {
+  display: none;
+}
