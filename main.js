@@ -21,7 +21,7 @@ for (i = 0; i < squares.length; i++) {
 // create text node message
 var message1 = document.createTextNode("Oooh - so close, but no cigar");
 var message2 = document.createTextNode("DING DING DING - We have a winner");
-var message3 = document.createTextNode("Oops, butter luck next time");
+var message3 = document.createTextNode("Oops, better luck next time");
 
 // element to  that holds text
 var messageText = document.createElement('p');
