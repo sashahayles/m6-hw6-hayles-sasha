@@ -2,7 +2,7 @@
 .hero {
   width:1250px;
   height:190px;
-  background-color: purple;
+  background-color: #5841ae;
   color:white;
   display:flex;
   justify-content:center;
@@ -11,7 +11,7 @@
 }
 h1 {
   text-align:center;
-  color:purple;
+  color:#5841ae;
   font-size:1rem;
   margin:15px 0px 30px;
 }
@@ -22,14 +22,15 @@ h1 {
 .boxes {
   width:210px;
   height:210px;
-  background-color: lime;
+  background-color: #a1dc2d;
   display: flex;
   align-items:center;
   justify-content: center;
-  color:purple;
-  font-size: 2rem;
+  color:#5841ae;
+  font-size: 3rem;
+  font-weight:bold;
   box-shadow: 1px 3px 9px 4px #ccc;
-  border: 6px solid blue;
+  border: 6px solid #5841ae;
   border-radius: 5px;
 }
 .hovercolor {
